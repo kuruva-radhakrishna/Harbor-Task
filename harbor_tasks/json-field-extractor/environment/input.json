@@ -8,15 +8,15 @@
   },
   {
     "id": 2,
-    "name": "Bob Johnson",
-    "email": "bob@example.com",
+    "name": "",
+    "email": "empty@example.com",
     "age": 35,
     "city": "Los Angeles"
   },
   {
     "id": 3,
     "name": "Charlie Brown",
-    "email": "charlie@example.com",
+    "email": "invalid-email",
     "age": 42,
     "city": "Chicago"
   },
@@ -26,5 +26,12 @@
     "email": "diana@example.com",
     "age": 31,
     "city": "Seattle"
+  },
+  {
+    "id": 5,
+    "name": "Eve Wilson",
+    "email": "eve@test.org",
+    "age": 29,
+    "city": "Boston"
   }
 ]
