@@ -1,0 +1,20 @@
+[project]
+name = "harbor-task"
+version = "0.1.0"
+description = "Harbor task implementation"
+requires-python = ">=3.10"
+dependencies = [
+    "harbor-cli>=0.1.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]
+ignore = []
