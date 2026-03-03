@@ -2,6 +2,8 @@
 
 This repository contains a Harbor task implementation for the new hire assignment.
 
+📚 **New here? Start with [INDEX.md](INDEX.md) for a complete documentation guide!**
+
 ## Task Description
 
 **Task Name**: JSON Field Extractor  
